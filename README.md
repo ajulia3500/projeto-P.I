@@ -1,2 +1,2 @@
 # projeto-P.I
-ana julia, rodrigo, samara, tauany, sthefanni
+dor, tristeza, sofrimento
