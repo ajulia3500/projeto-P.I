@@ -20,6 +20,7 @@ body {
     background: #272727;
     font-family: "Montserrat", sans-serif;
     color:#fff;
+    font-family:'Source Sans Pro', sans-serif;
   }
 
   IMG.banner {
@@ -48,6 +49,7 @@ body {
                         <form class="form-inline mr-auto" target="_self">
 
                         </form>
+                        <span class="navbar-text"> <a class="nav-link active" href="favoritos.html" ><img class="fav" src="IMG/coracao.png" title="Meus Favoritos" width="25" height="23"/></a></span>
                         <span class="navbar-text"> <a class="nav-link active" href="login.html" class="login">Conecte-se</a></span><a class="btn btn-light action-button" role="button" href="#">Registre-se</a></div>
                 </div>
             </nav>
